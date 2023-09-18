@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, We're BOVER GROUP🤖</h1>
+<h1 align="center">Hi 👋, We are BOVER GROUP🤖</h1>
 <h3 align="center">We are a company that provides innovative technological services and products for robotics and the world 🚀💡✨</h3>
 
 - 👯 I’m looking to collaborate on **PCBWAY**
